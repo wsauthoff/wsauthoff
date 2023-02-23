@@ -1,27 +1,3 @@
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wsauthoff&layout=compact&show_icons=true&title_color=fff&text_color=ddd&bg_color=0D1117&hide_border=true&border_radius=10"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wsauthoff&layout=compact&show_icons=true&title_color=000&text_color=000&bg_color=fff&hide_border=true&border_radius=10"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsauthoff&layout=compact&show_icons=true&title_color=000&text_color=000&bg_color=fff&hide_border=true&border_radius=10" />
-</picture>
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=wsauthoff&show_icons=true&count_private=true&hide_title=true&text_color=ddd&bg_color=0D1117&hide_border=true&border_radius=10&icon_color=BECE7A&ring_color=BECE7A"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=wsauthoff&show_icons=true&count_private=true&hide_title=true&text_color=000&bg_color=fff&hide_border=true&border_radius=10&icon_color=BECE7A&ring_color=BECE7A"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=wsauthoff&show_icons=true&count_private=true&hide_title=true&text_color=000&bg_color=fff&hide_border=true&border_radius=10&icon_color=BECE7A&ring_color=BECE7A" />
-</picture>
-
-
 ### Salutations, I'm Wilson 👋
 #### More about me:
 
