@@ -1,6 +1,6 @@
 [![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0001-5999-4917&color=green&style=flat-square&logo=orcid)](https://orcid.org/0000-0001-9683-1578)
 [![Google Scholar](https://img.shields.io/static/v1?label=&message=Google%20Scholar&color=gray&style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?hl=en&user=Fj0gxlAAAAAJ)
-[![Twitter](https://img.shields.io/twitter/follow/rabernat?logo=twitter&style=flat-square)](https://twitter.com/wsauthoff)
+[![Twitter](https://img.shields.io/twitter/follow/wilsonsauthoff?logo=twitter&style=flat-square)](https://twitter.com/wilsonsauthoff)
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/wilsonsauthoff/)
 
 ### Salutations, I'm Wilson 👋
