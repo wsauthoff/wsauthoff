@@ -9,11 +9,11 @@
 **wsauthoff/wsauthoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:-->
 
-- 😄 Pronouns: (he/him)
+- 😄 Pronouns: he/him
 
 - 👨🏼‍💻 Current position: PhD candidate in the [Mines Glaciology Laboratory](https://glaciology.mines.edu/)
 
-- 🔭 I’m currently working on: remote sensing of Antarctic active [subglacial lakes](https://en.wikipedia.org/wiki/Subglacial_lake) using satellite and airborne [altimetry](https://en.wikipedia.org/wiki/Altimeter)
+- 🔭 I’m currently working on: remote sensing of Antarctic active [subglacial lakes](https://en.wikipedia.org/wiki/Subglacial_lake) using satellite [altimetry](https://en.wikipedia.org/wiki/Altimeter)
 
 - 🌱 I’m currently learning: hydrology, geophysics, remote sensing, data science, statistics, machine learning
 
